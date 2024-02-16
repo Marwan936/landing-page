@@ -8,3 +8,30 @@ body{
  background: #1f2937;
  
 }
+
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+
+.logo{
+    font-size: 24px;
+    color: #F9FAF8;
+    padding: 13px;
+    font-weight: bold;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    gap: 15px;
+}
+
+a{
+    color: #E5E7EB;
+    text-decoration: none;
+}
+
+.description .imageD {
+    display:flex;
+}
